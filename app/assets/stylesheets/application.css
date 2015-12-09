@@ -15,8 +15,8 @@
  */
 
 body {  
-  background-color: #fafafa;
-  font-family: proxima-nova, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  background-image: url(http://www.awshdwallpapers.com/wp-content/uploads/2014/06/plain-light-color-desktop-background.jpg);
+  font-family: 'Play', sans-serif;
 }
 
 .navbar-brand {
@@ -28,6 +28,7 @@ body {
 .navbar-default {
   background-color: #fff;
   height: 54px;
+  font-family: 'Play', sans-serif;
   .navbar-nav li a {
     color: #125688;
   }
@@ -36,6 +37,7 @@ body {
 .navbar-container {
   width: 640px;
   margin: 0 auto;
+  font-family: 'Play', sans-serif;
 }
 
 .posts-wrapper {
@@ -43,9 +45,11 @@ body {
   margin: 0 auto;
   max-width: 642px;
   width: 100%;
+  font-family: 'Play', sans-serif;
 }
 
 .post {
+  font-family: 'Play', sans-serif;
   background-color: #fff;
   border-color: #edeeee;
   border-style: solid;
@@ -55,6 +59,7 @@ body {
 }
 
 .post-head {
+  font-family: 'Play', sans-serif;
   height: 64px;
   padding: 14px 20px;
   color: #125688;
@@ -67,11 +72,13 @@ body {
 }
 
 .image {
+  font-family: 'Play', sans-serif;
   border-bottom: 1px solid #eeefef;
   border-top: 1px solid #eeefef;
 }
 
 .caption {
+  font-family: 'Play', sans-serif;
   padding: 24px 24px;
   font-size: 15px;
   line-height: 18px;
@@ -79,6 +86,7 @@ body {
 }
 
 .form-wrapper {
+  font-family: 'Play', sans-serif;
   width: 60%;
   margin: 20px auto;
   background-color: #fff;
@@ -88,6 +96,7 @@ body {
 }
 
 .edit-links {
+  font-family: 'Play', sans-serif;
   margin-top: 20px;
   margin-bottom: 40px;
 }
